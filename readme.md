@@ -1,0 +1,1 @@
+This is going to be a simple recipes website build as part of the introduction series at The Odin Project, a system for learning full stack developement. This will be using HTML only, so style will not be a focus. However, navigating through directories within the HTML code should prove an important practice here.
